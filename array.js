@@ -1,7 +1,6 @@
 // Party Arrays
 
 // ARRAY 1 (rsvnArray): Party with Reservation
-
 // var rsvnArray = []
 
 // ARRAY 2 (rsvnWaitList): Party on Wait List for reservation
